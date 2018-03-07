@@ -12,6 +12,8 @@ While the data was originally obtained in order to investigate motivations behin
 
 Data comes from [OpenDataPhilly](https://www.google.com/search?q=opendataphilly&oq=opendataphilly&aqs=chrome..69i57j69i61j69i60j69i61.1653j0j7&sourceid=chrome&ie=UTF-8), provided by a Pennsylvania Right-to-Know request filed with the Philadelphia Traffic Court.
 
+To view the data used, including datasets produced by my code, you can view [this project's dat](dat://4228ae079e52af1bb7a226410df0f923557c2a89221bc3c41795c2ade7ce4f8f).
+
 
 ## Project Overview
 
